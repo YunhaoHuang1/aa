@@ -1,0 +1,46 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+.button {
+    margin-bottom: 10px;
+}
+
+.contact-block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.block {
+    margin-bottom: 10px;
+    border: black 1px solid;
+    padding: 10px;
+}
+
+.contact-name {
+    margin-right: 10px;
+}
+
+.contact-delete {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border: black 1px solid;
+    margin: 5px auto;
+}
+tr th {
+    border: black 1px solid;
+    padding: 5px;
+}
